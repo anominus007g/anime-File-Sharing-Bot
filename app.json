@@ -7,22 +7,22 @@
     "sharing"
   ],
   "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://iwbb.co/FgPVtz",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "Your Bot token,7094643459:AAHj5ocNGSTnoPbZI_NU2yWran7HXfQWaMA",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "description": "1331434457",
+      "value": ; "1331434457"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+      "description": "your app id, 24407770",
       "value": ""
     },
     "DATABASE_URL": {
-      "description": "Paste your mongo db url",
+      "description": "mongodb+srv://<kanus32>:<34jYQb0PI4WZ5jPL>@cluster0.c10evup.mongodb.net/?retryWrites=true&w=majorityl",
       "value": "url"
     },
     "DATABASE_NAME":{
@@ -30,16 +30,16 @@
       "value": "filesharexbot"
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "your api hash, 4f6840d55ecb0a4f49e79295a1847713",
       "value": ""
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
+      "description": "make a channel (database channel), then make the bot as admin in channel, -1001973804304",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "description": "id of the channel or group, -1001932990033",
+      "value": "-100"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -50,8 +50,8 @@
       "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
     },
     "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "description": "A space separated list of user_ids of Admins, 1331434457, OR MORE ",
+      "value": "false",
       "required": false
     },
     "PROTECT_CONTENT": {
