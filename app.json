@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/anominus007g/anime-File-Sharing-Bot",
   "logo": "https://iwbb.co/FgPVtz",
   "env": {
     "TG_BOT_TOKEN": {
